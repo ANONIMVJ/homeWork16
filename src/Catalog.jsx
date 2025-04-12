@@ -4,32 +4,32 @@ const catalogData = [
   {
     title: "Люстры",
     price: "От 540₽",
-    image: "../public/img/img6.png"
+    image: "img/img6.png"
   },
   {
     title: "Светильники",
     price: "От 540₽",
-    image: "../public/img/img4.png"
+    image: "img/img4.png"
   },
   {
     title: "Бра",
     price: "От 540₽",
-    image: "../public/img/img2.png"
+    image: "img/img2.png"
   },
   {
     title: "Торшеры",
     price: "От 540₽",
-    image: "../public/img/img5.png"
+    image: "img/img5.png"
   },
   {
     title: "Настольные лампы",
     price: "От 540₽",
-    image: "../public/img/img3.png"
+    image: "img/img3.png"
   },
   {
     title: "Споты",
     price: "От 540₽",
-    image: "../public/img/img1.png"
+    image: "img/img1.png"
   }
 ];
 
